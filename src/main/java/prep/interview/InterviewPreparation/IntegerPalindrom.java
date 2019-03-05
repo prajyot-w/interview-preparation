@@ -1,4 +1,4 @@
-package interview.programs;
+package prep.interview.InterviewPreparation;
 
 /**
  * @Author prajyot on 3/2/19

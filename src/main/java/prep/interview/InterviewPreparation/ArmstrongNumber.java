@@ -1,4 +1,4 @@
-package interview.programs;
+package prep.interview.InterviewPreparation;
 
 /**
  * @Author prajyot on 3/2/19
@@ -9,4 +9,8 @@ number because 153= 1+ 125+27 which is equal to 1^3+5^3+3^3. You need to write a
 Armstrong number or not.
 */
 public class ArmstrongNumber {
+
+    public boolean run(Long number) {
+        return false;
+    }
 }
