@@ -10,4 +10,9 @@ Integer is palindrome or not. An integer is called palindrome if its equal to it
 and modulus 10 to get the last digit. This trick is used to solve this problem.
 */
 public class IntegerPalindrom {
+
+    public int run(int inNum) {
+        return 0;
+    }
+
 }

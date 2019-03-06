@@ -11,4 +11,9 @@ prepared with both recursive and iterative solution of this problem. The intervi
 any library method e.g. indexOf() or subString() so be prepared for that.
 */
 public class StringPalindrom {
+
+    public String run(String inString) {
+        return null;
+    }
+
 }
