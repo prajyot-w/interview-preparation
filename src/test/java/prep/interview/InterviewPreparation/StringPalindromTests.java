@@ -18,7 +18,7 @@ public class StringPalindromTests {
 
     @Test
     public void test3() {
-        Assert.assertEquals("jacob", component.run("jacob"));
+        Assert.assertNotEquals("jacob", component.run("jacob"));
     }
 
 }
